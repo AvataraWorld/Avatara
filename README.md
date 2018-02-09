@@ -1,0 +1,2 @@
+# Avatara
+Avatara smart contract
